@@ -16,7 +16,7 @@ const ClickCounter = () => {
         </div>
         <div>
           <span>
-            Component 1 was Clicked : {store.clicks.InterfaceTwo} times
+            Component 2 was Clicked : {store.clicks.InterfaceTwo} times
           </span>
         </div>
       </div>
